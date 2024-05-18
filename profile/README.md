@@ -8,7 +8,7 @@ Welcome to the **SanskyTech** GitHub organization! 🎉
 
 ## About Us
 
-SanskyTech is dedicated to providing high-quality, tech-related projects designed to enhance learning and hands-on experience in various technological fields. Our projects cater to developers, students, and enthusiasts who are eager to expand their knowledge and skills. Additionally, we share tutorials, project walkthroughs, and tech insights on our [YouTube channel](https://www.youtube.com/sanskytech) and [SanskyTech Blog](https://blog.sanskytech.com).
+SanskyTech is dedicated to providing high-quality, tech-related projects designed to enhance learning and hands-on experience in various technological fields. Our projects cater to developers, students, and enthusiasts who are eager to expand their knowledge and skills. Additionally, we share tutorials, project walkthroughs, and tech insights on our [YouTube channel](https://www.youtube.com/@sanskytech) and [SanskyTech Blog](https://sanskytech.com).
 
 ## Repository Contents
 
@@ -100,7 +100,7 @@ Thank you for contributing to SanskyTech and helping us build a vibrant and educ
 
 ## Get In Touch
 
-- **YouTube**: [SanskyTech YouTube Channel](https://www.youtube.com/sanskytech)
+- **YouTube**: [SanskyTech YouTube Channel](https://www.youtube.com/@sanskytech)
 - **Blog**: [SanskyTech Blog](https://sanskytech.com)
 - **Email**: [contact@sanskytech.com](mailto:contact@sanskytech.com)
 
