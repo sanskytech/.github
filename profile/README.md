@@ -1,6 +1,6 @@
 # SanskyTech
 
-Welcome to the **SanskyTech** GitHub organization! 🎉
+## Welcome to the **SanskyTech** GitHub organization! 🎉
 
 <p align="center">
 <img src="https://github.com/sanskytech/profile/blob/main/sanskytech.gif" alt="sanskytech"/>
